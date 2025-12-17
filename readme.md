@@ -52,7 +52,7 @@ Take user input from the form ({{ $json.title }}) and convert it into a detailed
 - style (realistic / 3D / anime etc.)
 - camera angle
 
-# 📷 Screenshots
+# 📷 Workflow & Output
 <img width="1920" height="1080" alt="Screenshot (229)" src="https://github.com/user-attachments/assets/d042cc61-a356-4f0a-9505-5f807a939a93" />
 <img width="1920" height="1080" alt="Screenshot (231)" src="https://github.com/user-attachments/assets/15b9a6b4-035d-495a-b963-864ef6606a3c" />
 <img width="1920" height="1080" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/f3c791bd-4af2-4d10-b0e2-1cdfa52b8132" />
